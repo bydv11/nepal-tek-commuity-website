@@ -1,5 +1,14 @@
 {
     "forums": [
+
+        "forum": 5,
+            "title": "Unlocking Opportunities: Perks and Benefits for tech students",
+            "description": "Our leader will be delivering an insightful discussion on the dynamics of tech industry, exploring how to seize opportunities within this field, and strategies to expand your knowledge and skillset. ",
+            "led_by": " ",
+            "location": "Seminar Hall, 702 (NCIT)",
+            "date_time": "2024-05-31T10:05:00",
+            "banner": "resources/img/forums/forum4.jpg",
+            "url": "forum-detail.html"
         {
             "forum": 3,
             "title": "Bug Bounty Hunting with Dipesh Bohara",
